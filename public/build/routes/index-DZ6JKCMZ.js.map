@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/Parker/Programming/Projects/react/remix-react/my-remix-app/first-remix-app/app/routes/index.jsx?browser", "../../../app/routes/index.jsx"],
+  "sourcesContent": ["export { default } from \"/Users/Parker/Programming/Projects/react/remix-react/my-remix-app/first-remix-app/app/routes/index.jsx\";", "import { Link } from \"@remix-run/react\";\n\nexport default function Index() {\n  return (\n    <div style={{ fontFamily: \"system-ui, sans-serif\", lineHeight: \"1.4\" }}>\n      <h1>Welcome to Remix</h1>\n      <ul>\n        <li>\n          <Link to=\"/one\">My Link 1</Link>\n        </li>\n        <li>\n          <Link to=\"/two\">My Link 2</Link>\n        </li>\n      </ul>\n    </div>\n  );\n};"],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAEe,iBAAiB;AAC9B,SACE,oCAAC,OAAD;AAAA,IAAK,OAAO,EAAE,YAAY,yBAAyB,YAAY;AAAA,KAC7D,oCAAC,MAAD,MAAI,qBACJ,oCAAC,MAAD,MACE,oCAAC,MAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAAO,eAElB,oCAAC,MAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAAO;AAAA;",
+  "names": []
+}
